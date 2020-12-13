@@ -1,4 +1,4 @@
-# code-refactor-horiseon
+# HTML CSS Git Challenge: Code Refactor
 
 Horiseon is a website that helps businesses and other individuals to improve SEO, online reputation management and social media marketing methods. 
 
